@@ -5,7 +5,7 @@ class homePage{
         cy.visit('https://demoblaze.com/index.html')
     }
 
-    clikSignUpMenu(){
+    clickSignUpMenu(){
         cy.get(locators.menu_signup).click();
     }
 

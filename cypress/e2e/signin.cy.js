@@ -1,4 +1,4 @@
-const homePage = require('../support/pageObjects/homePage/homePage');
+const homePage = require ('../support/pageObjects/homePage/homePage')
 const signinPage = require('../support/pageObjects/signinPage/signinPage')
 const userData = require('../support/data/userData')
 
